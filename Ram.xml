@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Grocery_store>
+    <Product>
+        <name>Sugar</name>
+        <price>50rs</price>
+        
+    </Product>
+    <Product>
+        <name>Washing powder</name>
+        <price>150rs</price>
+        
+    </Product>
+    <Product>
+        <name>Hair shampoo</name>
+        <price>230rs</price>
+        
+    </Product>
+    <Product>
+        <name>Soap</name>
+        <price>45rs</price>
+        
+    </Product>
+</Grocery_store>
